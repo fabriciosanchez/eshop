@@ -4152,35 +4152,37 @@
     ]
   },
   "packageFolders": {
-    "/home/fabricio/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\fabsanc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/home/fabricio/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/obj/",
+      "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\fabsanc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/fabricio/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\fabsanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj"
+            "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }

@@ -11577,11 +11577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\WebRazorPages.csproj",
+      "projectUniqueName": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\WebRazorPages.csproj",
       "projectName": "Microsoft.eShopWeb.RazorPages",
-      "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\WebRazorPages.csproj",
+      "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\WebRazorPages.csproj",
       "packagesPath": "C:\\Users\\fabsanc\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\obj\\",
+      "outputPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\WebRazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11600,11 +11600,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

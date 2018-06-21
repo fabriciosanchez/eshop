@@ -86,6 +86,8 @@ namespace Microsoft.eShopWeb.Web
             services.AddScoped(typeof(IRepository<>), typeof(EfRepository<>));
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
+            services.AddDbContext<CatalogContext>();
+
             services.AddScoped<ICatalogService, CachedCatalogService>();
             services.AddScoped<IBasketService, BasketService>();
             services.AddScoped<IBasketViewModelService, BasketViewModelService>();
@@ -123,6 +125,7 @@ namespace Microsoft.eShopWeb.Web
                 app.UseHsts();
             }
 
+            app.SeedData();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();

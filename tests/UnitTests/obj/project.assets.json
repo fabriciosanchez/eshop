@@ -13209,11 +13209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\fabsanc\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\tests\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13232,11 +13232,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Web\\Web.csproj": {
-              "projectPath": "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Web\\Web.csproj"
+            "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Web\\Web.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\Web\\Web.csproj"
             }
           }
         }
@@ -13259,7 +13259,6 @@
             "version": "[15.8.0-preview-20180510-03, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

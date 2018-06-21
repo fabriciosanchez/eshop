@@ -11,9 +11,9 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Microsoft.eShopWeb.RazorPages", "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Microsoft.eShopWeb.RazorPages", "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\" +
     "WebRazorPages", "WebRazorPages.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "c:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\fabsanc\\Documents\\OneDrive - Microsoft\\Microsoft\\Repositories\\eshop\\src\\" +
     "Web", "Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunctionalTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
