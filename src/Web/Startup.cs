@@ -125,7 +125,6 @@ namespace Microsoft.eShopWeb.Web
                 app.UseHsts();
             }
 
-            app.SeedData();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();
