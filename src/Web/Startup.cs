@@ -87,6 +87,7 @@ namespace Microsoft.eShopWeb.Web
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
             services.AddDbContext<CatalogContext>();
+            services.AddDbContext<AppIdentityDbContext>();
 
             services.AddScoped<ICatalogService, CachedCatalogService>();
             services.AddScoped<IBasketService, BasketService>();
