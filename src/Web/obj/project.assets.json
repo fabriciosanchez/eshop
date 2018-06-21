@@ -12332,11 +12332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Web/Web.csproj",
+      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/web/Web.csproj",
       "projectName": "Web",
-      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Web/Web.csproj",
+      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/web/Web.csproj",
       "packagesPath": "/home/fabricio/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Web/obj/",
+      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12353,11 +12353,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj"
+            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj": {
+              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj"
             },
-            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Infrastructure/Infrastructure.csproj"
+            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj"
             }
           }
         }

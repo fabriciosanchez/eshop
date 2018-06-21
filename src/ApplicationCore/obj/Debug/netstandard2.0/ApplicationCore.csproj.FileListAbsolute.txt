@@ -7,3 +7,12 @@
 /mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfo.cs
 /mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.dll
 /mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.pdb
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.deps.json
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.dll
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.pdb
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.csprojAssemblyReference.cache
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfoInputs.cache
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfo.cs
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.dll
+/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.pdb

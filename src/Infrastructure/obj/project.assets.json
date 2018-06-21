@@ -4158,11 +4158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/home/fabricio/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/Infrastructure/obj/",
+      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4179,8 +4179,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj"
+            "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj": {
+              "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj"
             }
           }
         }

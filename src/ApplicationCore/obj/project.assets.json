@@ -1169,11 +1169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj",
+      "projectUniqueName": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/ApplicationCore.csproj",
+      "projectPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/ApplicationCore.csproj",
       "packagesPath": "/home/fabricio/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/azure-cli-scripts/azure-bootcamp-education/sample-apps/eshop/src/ApplicationCore/obj/",
+      "outputPath": "/mnt/c/Users/fabsanc/Documents/OneDrive - Microsoft/Microsoft/Repositories/eshop/src/ApplicationCore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
