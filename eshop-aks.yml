@@ -1,0 +1,40 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: eshopwebmvc
+spec:
+  replicas: 1
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  minReadySeconds: 5 
+  template:
+    metadata:
+      labels:
+        app: eshopwebmvc
+    spec:
+      containers:
+      - name: eshopwebmvc
+        image: acrmoett.azurecr.io/eshopwebmvc:v1
+        ports:
+        - containerPort: 5106
+        resources:
+          requests:
+            cpu: 250m
+          limits:
+            cpu: 500m
+        env:
+        - name: ESHOP
+          value: "eshopwebmvc"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: eshopwebmvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 5106
+  selector:
+    app: eshopwebmvc
