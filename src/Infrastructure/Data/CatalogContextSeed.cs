@@ -10,15 +10,11 @@ namespace Microsoft.eShopWeb.Infrastructure.Data
 {
     public class CatalogContextSeed
     {
-        public static async Task SeedAsync(CatalogContext catalogContext,
-            ILoggerFactory loggerFactory, int? retry = 0)
+        public static async Task SeedAsync(CatalogContext catalogContext, ILoggerFactory loggerFactory, int? retry = 0)
         {
             int retryForAvailability = retry.Value;
             try
             {
-                // TODO: Only run this if using a real database
-                // context.Database.Migrate();
-
                 if (!catalogContext.CatalogBrands.Any())
                 {
                     catalogContext.CatalogBrands.AddRange(
