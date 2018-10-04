@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: eshopwebmvc
-        image: areciboacr.azurecr.io/eshopwebmvc:v1
+        image: {repo-name}.azurecr.io/eshopwebmvc:v1
         ports:
         - containerPort: 5106
         resources:
